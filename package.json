@@ -1,14 +1,18 @@
 {
-    "name": "nodechat"
-  , "version": "0.0.1"
-  , "private": true
-  , "dependencies": {
-      "express": "2.5.0"
-    , "jade": ">= 0.0.1"
-    , "socket.io": ">= 0.8.7"
-    , "underscore": ">= 1.2.1"
-    , "backbone": ">= 0.5.3"
-    , "JSON": ">= 1.0.0"
-    , "redis": ">= 0.6.7"
+  "name": "nodechat",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "2.5.0",
+    "jade": "0.17.0",
+    "socket.io": "0.8.7",
+    "underscore": "1.2.1",
+    "backbone": "0.5.3",
+    "JSON": "1.0.0",
+    "redis": "0.6.7"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "*"
   }
 }
